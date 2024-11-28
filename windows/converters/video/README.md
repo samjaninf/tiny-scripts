@@ -1,3 +1,12 @@
+![OS](https://img.shields.io/badge/WINDOWS-blue)
+```
+██╗   ██╗██╗██████╗ ███████╗ ██████╗      ██████╗ ██████╗ ███╗   ██╗██╗   ██╗███████╗██████╗ ████████╗███████╗██████╗ 
+██║   ██║██║██╔══██╗██╔════╝██╔═══██╗    ██╔════╝██╔═══██╗████╗  ██║██║   ██║██╔════╝██╔══██╗╚══██╔══╝██╔════╝██╔══██╗
+██║   ██║██║██║  ██║█████╗  ██║   ██║    ██║     ██║   ██║██╔██╗ ██║██║   ██║█████╗  ██████╔╝   ██║   █████╗  ██████╔╝
+╚██╗ ██╔╝██║██║  ██║██╔══╝  ██║   ██║    ██║     ██║   ██║██║╚██╗██║╚██╗ ██╔╝██╔══╝  ██╔══██╗   ██║   ██╔══╝  ██╔══██╗
+ ╚████╔╝ ██║██████╔╝███████╗╚██████╔╝    ╚██████╗╚██████╔╝██║ ╚████║ ╚████╔╝ ███████╗██║  ██║   ██║   ███████╗██║  ██║
+  ╚═══╝  ╚═╝╚═════╝ ╚══════╝ ╚═════╝      ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝  ╚═══╝  ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
+```
 # Video Converter
 
 This PowerShell script is designed to automate the process of converting video files into various formats (MP4, WebM, MOV, etc.) using **FFmpeg**. It supports both individual file conversions and batch processing, and allows for customization in the conversion quality, resolution, and output format.
