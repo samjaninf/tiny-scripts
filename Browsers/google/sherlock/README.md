@@ -194,4 +194,5 @@ chmod +x run_sherlock.sh
 ### Disclaimer
 
 This example script is provided for educational and legitimate investigative purposes only. It is intended to demonstrate how to use the Google Dorks presented in the cheatsheet to search for publicly available information. Use this script responsibly and in accordance with applicable laws.
-```
+
+---
